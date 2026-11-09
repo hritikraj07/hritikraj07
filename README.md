@@ -1,63 +1,13 @@
+# 💫 About Me:
+🔭 I'm currently working on web development and personal projects  <br>👯 I'm looking to collaborate on web development, AI/ML and creative projects  <br>🤝 I'm looking for help with building better projects and improving my skills  <br>🌱 I'm currently learning Python, web technologies and exploring new tools  <br>💬 Ask me about programming, web development, HTML, CSS, JavaScript and Python  <br>⚡ Fun fact: I enjoy experimenting with new technologies and turning ideas into projects!
 
-<div align="center">
 
-  <h1>Hi, I'm Hritik Raj 👋</h1>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hritxkk/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hritikraj07/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/urr_hritxkk/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hritikraj626@gmail.com) 
 
-  <p>
-    I'm a Computer Science student interested in programming and building software.
-    I primarily work with Python and enjoy exploring new technologies and developing projects.
-  </p>
-
-</div>
-
----
-
-<h2>👨‍💻 About Me</h2>
-
-<ul>
-  <li>🎓 B.Tech CSE (AI & ML) student at K.R. Mangalam University</li>
-  <li>🐍 Currently focusing on Python and problem-solving</li>
-  <li>💻 Interested in software development and AI/ML</li>
-  <li>🚀 Enjoy building projects and exploring new ideas</li>
-</ul>
-
----
-
-<h2>🛠️ Tech Interests</h2>
-
-<ul>
-  <li>Python</li>
-  <li>Artificial Intelligence & Machine Learning</li>
-  <li>Software Development</li>
-  <li>Problem Solving</li>
-</ul>
-
----
-
-<h2>🚀 What I'm Working On</h2>
-
-<p>
-  I use GitHub to share my projects, experiment with different ideas,
-  and keep track of my work.
-</p>
-
----
-
-<h2>📫 Contact Me</h2>
-
-<div align="center">
-
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img
-      src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-    />
-  </a>
-  <a href="https://linkedin.com/in/hritikraj07">
-    <img
-      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-</div>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=hritikraj07&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=hritikraj07&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hritikraj07&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
