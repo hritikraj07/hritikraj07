@@ -1,87 +1,63 @@
+
 <div align="center">
 
-# 👋 Hi, I'm Hritik Raj
+  <h1>Hi, I'm Hritik Raj 👋</h1>
 
-### 🐍 Python Programmer | B.Tech CSE (AI & ML) Student
+  <p>
+    I'm a Computer Science student interested in programming and building software.
+    I primarily work with Python and enjoy exploring new technologies and developing projects.
+  </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
-I'm **Hritik Raj**, a **B.Tech Computer Science & Engineering (AI & ML) student at K.R. Mangalam University**, with a passion for **Python, programming, and technology**.
-
-I enjoy writing code, building projects, solving problems, and exploring the world of software development and artificial intelligence.
-
-- 🎓 Pursuing **B.Tech CSE (AI & ML)**
-- 🏫 **K.R. Mangalam University**
-- 🐍 Focused on **Python & Programming**
-- 💻 Interested in **Software Development**
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
-- 🧠 Enjoy **Problem Solving & Logical Thinking**
-- 🚀 Love turning **ideas into projects**
-- 📈 Always working towards becoming a better developer
+<ul>
+  <li>🎓 B.Tech CSE (AI & ML) student at K.R. Mangalam University</li>
+  <li>🐍 Currently focusing on Python and problem-solving</li>
+  <li>💻 Interested in software development and AI/ML</li>
+  <li>🚀 Enjoy building projects and exploring new ideas</li>
+</ul>
 
 ---
 
-## 🐍 Primary Language
+<h2>🛠️ Tech Interests</h2>
+
+<ul>
+  <li>Python</li>
+  <li>Artificial Intelligence & Machine Learning</li>
+  <li>Software Development</li>
+  <li>Problem Solving</li>
+</ul>
+
+---
+
+<h2>🚀 What I'm Working On</h2>
+
+<p>
+  I use GitHub to share my projects, experiment with different ideas,
+  and keep track of my work.
+</p>
+
+---
+
+<h2>📫 Contact Me</h2>
 
 <div align="center">
 
-### Python
-
-</div>
-
-**Python** is my primary programming language. I use it to build projects, experiment with ideas, solve problems, and develop my programming skills.
-
----
-
-## 🎓 Education
-
-### K.R. Mangalam University
-
-**Bachelor of Technology — Computer Science & Engineering (AI & ML)**
-
-Currently pursuing my undergraduate degree with a focus on computer science, programming, artificial intelligence, and machine learning.
-
----
-
-## 🚀 What You'll Find Here
-
-- 🐍 Python Projects
-- 💻 Programming Projects
-- 🧩 Problem-Solving Work
-- 🤖 AI & ML Journey
-- 🚀 Personal Projects
-- 🔬 Experiments & Ideas
-
----
-
-## 🎯 Goals
-
-My goal is to become a skilled software developer and build a strong career in **Computer Science, Artificial Intelligence, and Machine Learning**.
-
-I'm focused on building projects, gaining practical experience, improving my programming skills, and turning ideas into real-world solutions.
-
----
-
-## 💡 Philosophy
-
-<div align="center">
-
-> **"Learn. Build. Break. Fix. Improve. Repeat."**
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Thanks for Visiting!
-
-Thanks for stopping by my GitHub profile! 👋
-
-**Keep Coding. Keep Building. 🐍💻**
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img
+      src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
+  </a>
+  <a href="https://linkedin.com/in/hritikraj07">
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 
 </div>
